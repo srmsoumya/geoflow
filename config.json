@@ -1,0 +1,36 @@
+[
+  {
+    "REGION": "fortportal",
+    "UTM": 32636,
+    "PIPELINE": "gridded-population"
+  },
+  {
+    "REGION": "entebbe",
+    "UTM": 32636,
+    "PIPELINE": "gridded-population"
+  },
+  {
+    "REGION": "fortportal",
+    "UTM": 32636,
+    "POP": "grid_population",
+    "PIPELINE": "query"
+  },
+  {
+    "REGION": "entebbe",
+    "UTM": 32636,
+    "POP": "grid_population",
+    "PIPELINE": "query"
+  },
+  {
+    "REGION": "fortportal",
+    "UTM": 32636,
+    "POP": "grid_population",
+    "PIPELINE": "cluster"
+  },
+  {
+    "REGION": "entebbe",
+    "UTM": 32636,
+    "POP": "grid_population",
+    "PIPELINE": "cluster"
+  }
+]
